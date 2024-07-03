@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: back
   annotations:
-    github.com/project-slug: ankur29592/back
+    backstage.io/kubernetes-id: back
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
